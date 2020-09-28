@@ -4,7 +4,7 @@
 ![Screen Shot 2020-09-28 at 9 15 38 PM](https://user-images.githubusercontent.com/8447473/94408307-1b22f300-01d1-11eb-905e-1ad902093069.png)
 
 ## Buttons
-*When clicking button, the list will be sorted by catagories
+* When clicking button, the list will be sorted by catagories
 
 
 ![blueClick](https://user-images.githubusercontent.com/8447473/94408048-c54e4b00-01d0-11eb-8943-ff4a13059fec.jpg)
